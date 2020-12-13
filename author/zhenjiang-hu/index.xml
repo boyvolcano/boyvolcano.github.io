@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenjiang Hu | Yican Sun</title>
+    <link>rxdoi.github.io/author/zhenjiang-hu/</link>
+      <atom:link href="rxdoi.github.io/author/zhenjiang-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenjiang Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2020 20:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/rxdoi.github.io/images/icon_hu78f90294e5b28717599f1f572dc03768_129356_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhenjiang Hu</title>
+      <link>rxdoi.github.io/author/zhenjiang-hu/</link>
+    </image>
+    
+    <item>
+      <title>Guiding Dynamic Programing via Structural Probability for Accelerating Programming by Example.</title>
+      <link>rxdoi.github.io/publication/oopsla-20/</link>
+      <pubDate>Mon, 30 Mar 2020 20:00:00 +0800</pubDate>
+      <guid>rxdoi.github.io/publication/oopsla-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
