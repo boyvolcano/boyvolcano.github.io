@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiuhan Wang | Yican Sun</title>
+    <link>rxdoi.github.io/author/xiuhan-wang/</link>
+      <atom:link href="rxdoi.github.io/author/xiuhan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiuhan Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/rxdoi.github.io/images/icon_hu78f90294e5b28717599f1f572dc03768_129356_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiuhan Wang</title>
+      <link>rxdoi.github.io/author/xiuhan-wang/</link>
+    </image>
+    
+    <item>
+      <title>Constant Approximating Parameterized k-SetCover is W[2]-hard</title>
+      <link>rxdoi.github.io/publication/e-soda-23/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>rxdoi.github.io/publication/e-soda-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Lower Bounds of Approximating Parameterized k-Clique</title>
+      <link>rxdoi.github.io/publication/d-icalp-22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>rxdoi.github.io/publication/d-icalp-22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
