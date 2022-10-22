@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hongfei Fu | Yican Sun</title>
+    <title>Hongfei Fu$^*$ | Yican Sun</title>
     <link>https://boyvolcano.github.io/author/hongfei-fu/</link>
       <atom:link href="https://boyvolcano.github.io/author/hongfei-fu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hongfei Fu</description>
+    <description>Hongfei Fu$^*$</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://boyvolcano.github.io/images/icon_hu78f90294e5b28717599f1f572dc03768_129356_512x512_fill_lanczos_center_2.png</url>
-      <title>Hongfei Fu</title>
+      <title>Hongfei Fu$^*$</title>
       <link>https://boyvolcano.github.io/author/hongfei-fu/</link>
     </image>
     
     <item>
       <title>Automated Concentration Bound Analysis for Probabilistic Recurrence Relations</title>
-      <link>https://boyvolcano.github.io/publication/z-manuscript1/</link>
+      <link>https://boyvolcano.github.io/publication/manuscript1/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://boyvolcano.github.io/publication/z-manuscript1/</guid>
+      <guid>https://boyvolcano.github.io/publication/manuscript1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantitative Analysis of Assertion Violations in Probabilistic Programs</title>
-      <link>https://boyvolcano.github.io/publication/c-pldi-21/</link>
+      <link>https://boyvolcano.github.io/publication/pldi-21/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://boyvolcano.github.io/publication/c-pldi-21/</guid>
+      <guid>https://boyvolcano.github.io/publication/pldi-21/</guid>
       <description></description>
     </item>
     
