@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuanyu Peng | Yican Sun</title>
+    <link>https://boyvolcano.github.io/author/xuanyu-peng/</link>
+      <atom:link href="https://boyvolcano.github.io/author/xuanyu-peng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuanyu Peng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://boyvolcano.github.io/images/icon_hu78f90294e5b28717599f1f572dc03768_129356_512x512_fill_lanczos_center_2.png</url>
+      <title>Xuanyu Peng</title>
+      <link>https://boyvolcano.github.io/author/xuanyu-peng/</link>
+    </image>
+    
+    <item>
+      <title>Automated Tail Bound Analysis for Probabilistic Recurrence Relations</title>
+      <link>https://boyvolcano.github.io/publication/oopsla-23/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://boyvolcano.github.io/publication/oopsla-23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
