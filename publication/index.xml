@@ -5,12 +5,20 @@
     <link>https://boyvolcano.github.io/publication/</link>
       <atom:link href="https://boyvolcano.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://boyvolcano.github.io/images/icon_hu78f90294e5b28717599f1f572dc03768_129356_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://boyvolcano.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Almost Optimal Time Lower Bound for Approximating Parameterized Clique, CSP, and More, under ETH</title>
+      <link>https://boyvolcano.github.io/publication/manuscript1/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://boyvolcano.github.io/publication/manuscript1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Proving Functional Program Equivalence via Directed Lemma Synthesis</title>
